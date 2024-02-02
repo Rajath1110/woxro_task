@@ -1,0 +1,127 @@
+.body{
+  padding-left: 236px;
+}
+
+.starting-text{
+  width: 1375px;
+  height: 96px;
+  top: 147px;
+  left: 273px;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  font-size: 45px;
+  font-weight: 200;
+  line-height: 48px;
+  letter-spacing: 0.9599999785423279px;
+  text-align: center;
+
+
+}
+.fortnite-img{
+ height: 10px;
+ width: 10px;
+
+}
+
+.second-text{
+  width: 1231px;
+  height: 81px;
+  position: absolute;
+  top: 843px;
+  left: 345px;
+  opacity: 0.8;
+  padding: 20px;
+
+  
+}
+
+.visit-website{
+  width: 416px;
+  height: 60px;
+  top: 979px;
+  left: 752px;
+  padding-left: 500px;
+
+}
+.visit-button{
+  font-family: Poppins;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0.9599999785423279px;
+  text-align: center;
+  margin-top: auto;
+  margin-left: autopx;
+
+}
+
+  
+
+.h3Container{
+  display: inline-block;
+  margin: 0; /* Remove default margins */
+}
+
+.contribution{
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: center;
+
+
+}
+
+.stats{
+  width: 886px;
+  height: 175px;
+  top: 2138px;
+  left: 520px;
+  display: flex;
+  padding-top: 30px;
+
+}
+.stats-1{
+font-family: Roboto;
+font-size: 25px;
+font-weight: 300;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: center;
+margin-bottom: 20px;
+margin-left: 400px;
+
+}
+.stats-2{
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 300;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-left: 420px;
+
+}
+.stats-3{
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 300;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-left: 400px;
+
+}
+
+
+
